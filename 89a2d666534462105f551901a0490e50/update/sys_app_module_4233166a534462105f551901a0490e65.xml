@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_740813_leaner_re.leaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-06 01:58:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4233166a534462105f551901a0490e65</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Create New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Leaner Request" source="x_740813_leaner_re">89a2d666534462105f551901a0490e50</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Leaner Request">89a2d666534462105f551901a0490e50</sys_scope>
         <sys_update_name>sys_app_module_4233166a534462105f551901a0490e65</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-06 01:58:01</sys_updated_on>
+        <sys_updated_on>2025-03-06 02:41:13</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
         <uncancelable>false</uncancelable>
