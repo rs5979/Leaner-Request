@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_740813_leaner_re_leaner_request">x_740813_leaner_re_leaner_request</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>LNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 01:57:32</sys_created_on>
+        <sys_id>c713926a534462105f551901a0490e2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Leaner Request" source="x_740813_leaner_re">89a2d666534462105f551901a0490e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaner Request">89a2d666534462105f551901a0490e50</sys_scope>
+        <sys_update_name>sys_number_c713926a534462105f551901a0490e2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 01:57:32</sys_updated_on>
+    </sys_number>
+</record_update>

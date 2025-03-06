@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_740813_leaner_re.leaner_request_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_740813_leaner_re.leaner_request_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 01:55:49</sys_created_on>
+        <sys_id>f9b292e6534462105f551901a0490e01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_740813_leaner_re.leaner_request_user</sys_name>
+        <sys_package display_value="Leaner Request" source="x_740813_leaner_re">89a2d666534462105f551901a0490e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaner Request">89a2d666534462105f551901a0490e50</sys_scope>
+        <sys_update_name>sys_user_role_f9b292e6534462105f551901a0490e01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 01:55:49</sys_updated_on>
+    </sys_user_role>
+</record_update>

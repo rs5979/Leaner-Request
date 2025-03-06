@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 01:57:33</sys_created_on>
+        <sys_id>5713926a534462105f551901a0490e6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_740813_leaner_re_leaner_request.x_740813_leaner_re.leaner_request_user</sys_name>
+        <sys_package display_value="Leaner Request" source="x_740813_leaner_re">89a2d666534462105f551901a0490e50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaner Request">89a2d666534462105f551901a0490e50</sys_scope>
+        <sys_security_acl display_value="x_740813_leaner_re_leaner_request">d313926a534462105f551901a0490e67</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5713926a534462105f551901a0490e6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 01:57:33</sys_updated_on>
+        <sys_user_role display_value="x_740813_leaner_re.leaner_request_user" name="x_740813_leaner_re.leaner_request_user">f9b292e6534462105f551901a0490e01</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
